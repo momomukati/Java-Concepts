@@ -1,0 +1,41 @@
+-----Problem set 1---- FromKeyboad.java: Compiled successfully
+Input: 92 25 46
+FromKeyboad.class: Results
+The numbers Divisible by 23 are the following:
+92
+46
+
+-----Problem set 2---- 
+FromArgumentList.java: Compiled successfully
+input: 6 3 4 2
+
+FromArgumentList.class: Results
+There are 3 even numbers
+
+
+-----Problem set 3---- 
+
+CountingNumbers.java: Compiled successfully
+
+input: 22 43 2
+CountingNumbers.class: Results
+For all the numbers between [22, 43] There are 11 numbers that is divisible by 2
+
+-----Problem set 4---- 
+Calories.java: Compiled successfully
+input: Male 204 72 24
+Calories.class: Results
+You could eat about 9 chocolate Bars to maintain your weight
+
+
+-----Problem set 5---- 
+Order.java: Compiled successfully
+
+input: 204 34 10 23
+Order.class: Results
+10
+23
+34
+204
+
+Time spent: 2:15 hours so far..

@@ -1,0 +1,24 @@
+Problem 1 
+Write a program named FromKeyboad.java that read three number from md argument list, then calculate and display those that are divisible by 23.
+
+Problem 2 
+Write a program named FromArgumentList.java that accepts 4 numbers from the command argument list, then counts and displays how many of then are even numbers.
+
+Problem 3 
+Write a program named CountingNumbers.java that accepts three numbers N, M, and B from Cmd argument list, then count and print how many numbers between [N, M] are divisible by B. Assume N < M. 
+For example, if you enter 3 9 5 then your program should output:
+For all numbers between [3, 9],  there is 1 number divisible by 5.
+ 
+Problem 4 
+The Harris-Benedict equation estimates the number of calories your body needs to maintain your weight if you do no exercise. This is called your basal metabolic rate, or BMR.
+
+The calories needed fro a woman to maintain her weight is:
+BMR=655 + (4.3 x weight in pounds) + (4.7 x height in inches) - (4.7 x age in years)
+
+The calories needed for a man to maintain his weight is:
+BRM = 66 + (6.3 x weight in pounds) + ( 12.9 x height in inches)  - (6.8 x age in years)
+
+A typical chocolate bar contains around 230 calories. Write a program named Calories.java that accepts (from Cmd argument list) gender(Female or Male) followed by 3 numbers indicating weight in pounds, height in inches, and age in years. The program should output the number of chocolate bars that should be consumed to main one's weight.
+
+Problem 5 
+Write a program named Order.java that accepts four numbers from the command argument list, then display the four numbers in increasing order.
